@@ -8,3 +8,5 @@
 
 - 브랜치는 master
 - mainlogic.py :: 수정하지 마세요
+
+##### 깃허브 가입 -> 깃허브 desktop을 설치 -> collaborator 등록
